@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Dwivedi</h1>
 <h3 align="center">Sophomore CSE Student | AI & ML Enthusiast | Aspiring Software Engineer</h3>
 
-<img align ="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img src="https://github.com/user-attachments/assets/3601a62b-3f30-4380-95ec-47eb18b40be7" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbi-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="harshbi-cloud" /> </p>
 
