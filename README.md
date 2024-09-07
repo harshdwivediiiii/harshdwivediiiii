@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Dwivedi</h1>
 <h3 align="center">Sophomore CSE Student | AI & ML Enthusiast | Aspiring Software Engineer</h3>
 
-<img src= "https://theintegratorsdev.com/asset/img/themes/software-plan.webp" />
+<img src= "https://static.wixstatic.com/media/dfb5f0_748abe6303524e928d2035db018216af~mv2.gif" />
 
 <img src= "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
