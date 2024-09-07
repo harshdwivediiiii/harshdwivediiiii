@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Dwivedi</h1>
 <h3 align="center">Sophomore CSE Student | AI & ML Enthusiast | Aspiring Software Engineer</h3>
 
-<img src= "https://images.app.goo.gl/pHdxfVcsMAAgVpNRA" />
+<img src= "https://theintegratorsdev.com/asset/img/themes/software-plan.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbi-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="harshbi-cloud" /> </p>
 
