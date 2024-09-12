@@ -9,7 +9,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushmaan-agarwal-8064a4258/"><img align="center" src="https://raw.githubusercontent.com/harshbi-cloud/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshvadhan-dwivedi-8064a4258/" height="30" width="40" /></a>
 </p>
 # 💫 About Me:
-Android Development 
+👨‍💻 B.Tech Student passionate about technology, software development, and open-source contributions.
+
+💡 I enjoy working on projects that involve web development, data structures, and algorithms.
+
+🌟 Currently, I'm expanding my knowledge in Kotlin and android devlopment 
+
+📚 I'm always open to learning new tools 
+and technologies that enhance problem-solving and efficiency in coding.
+
+💬 Let's collaborate! You can find me working on
 
 
 ## 🌐 Socials:
