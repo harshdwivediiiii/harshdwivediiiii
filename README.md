@@ -4,8 +4,6 @@
 
 <img src = "https://github.com/user-attachments/assets/08edcac9-8ea0-481b-97bf-ff6fd020539d"/>
 
-<img src = "
-
 - 📫 How to reach me **harshvardhandwivedi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
