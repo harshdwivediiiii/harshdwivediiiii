@@ -2,6 +2,10 @@
 <h3 align="center"> A passionate Android Developer</h3>
 - 👯 I’m looking to collaborate on **Projects related to my tech stack**
 
+<img src = "https://github.com/user-attachments/assets/08edcac9-8ea0-481b-97bf-ff6fd020539d"/>
+
+<img src = "
+
 - 📫 How to reach me **harshvardhandwivedi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
