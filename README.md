@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Hey+There!+I'm+Harshvardhan Dwivedi;AI+SaaS+Developer+%7C+ML+Engineer;Kotlin+%7C+Flutter+%7C+Next.js+%7C+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Hey+There!+I'm+Harshvardhan+Dwivedi;AI+SaaS+Developer+%7C+ML+Engineer;Kotlin+%7C+Flutter+%7C+Next.js+%7C+Blockchain" alt="Typing SVG" />
 </h1>
 
 <p align="center">
