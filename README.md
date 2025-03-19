@@ -1,11 +1,20 @@
-# 💫 About Me  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Hey+There!+I'm+Harshvardhan+Dwivedi;AI+SaaS+Developer+%7C+ML+Engineer;Kotlin+%7C+Flutter+%7C+Next.js+%7C+Blockchain" alt="Typing SVG" />
+</h1>
 
-- **🔭 Currently working on:** An AI SaaS project  
-- **🌱 Currently learning:** Kotlin & Android Development  
-- **💡 Looking to collaborate on:** Android (Kotlin) projects & Google Summer of Code (GSoC)  
-- **🤝 Looking for help with:** Accelerating Kotlin learning & Android development skills  
-- **🧠 Ask me about:** AI-driven SaaS projects & GSoC preparation strategies  
-- **🍫 Fun fact:** A chocolate lover!  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+SaaS+Developer+%7C+ML+Enthusiast;Full+Stack+Developer+%7C+Blockchain+Lover;Open+Source+Contributor+%7C+Hackathon+Addict)
+
+
+## 🔥 About Me 
+🎯 **Passionate AI SaaS Developer | ML Engineer | Blockchain Enthusiast**  
+🌱 Currently Learning: **Kotlin & Android Development**  
+💡 Open to Collaborations: **Android (Kotlin) & Google Summer of Code (GSoC)**  
+📌 Ask me about: **AI-driven SaaS & Web3 Projects**  
+🍫 Fun Fact: **I'm a chocolate lover!** 🍩🍪   
 
 
 
@@ -20,10 +29,11 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 
 # My Resume 
-
+<p align="center">
 <a href="https://github.com/harshdwivediiiii/harshdwivediiiii/blob/main/resume.pdf">
     <img src="https://img.shields.io/badge/My%20Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge">
 </a>
+</p>
 
 
 # 💻 Tech Stack:
