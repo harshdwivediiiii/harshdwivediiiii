@@ -68,6 +68,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
         <img class="tech-badge" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=harshdwivediiiii&theme=blue-green&hide_border=false)<br/>
