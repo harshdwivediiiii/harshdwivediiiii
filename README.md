@@ -24,7 +24,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-dwivedi)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshdwivediiii)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harshvdwivediii)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhandwivedi18@gmail.com) 
 
 
