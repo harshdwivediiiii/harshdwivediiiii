@@ -77,6 +77,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏅 Achievements
+- ![Postman API Student Fundamental Expert](https://api.badgr.io/public/issuers/BC0x4AQaQPC7lFilsBP_tQ/image) **[Postman API Student Fundamental Expert](https://badgr.com/backpack/badges/6753dd9c5e7b5e6be80635be)**: Achieved expertise in using Postman for API development and testing.
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
