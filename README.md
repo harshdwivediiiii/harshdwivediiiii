@@ -90,5 +90,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ---
 [![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ❤ Views and Followers
+
+![](https://komarev.com/ghpvc/?username=harshdwivediiiii&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<a href="https://github.com/harshdwivediiiii?tab=followers"><img src="https://img.shields.io/github/followers/carrycooldude?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
