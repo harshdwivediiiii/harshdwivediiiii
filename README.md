@@ -106,9 +106,5 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ![](https://komarev.com/ghpvc/?username=harshdwivediiiii&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <a href="https://github.com/harshdwivediiiii?tab=followers"><img src="https://img.shields.io/github/followers/carrycooldude?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center">
-  <img src="https://github.com/harshdwivediiiii/harshdwivediiiii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
