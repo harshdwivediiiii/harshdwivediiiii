@@ -78,7 +78,9 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/harshdwivediiiii/github-readme-activity-graph"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-activity-graph.vercel.app/grap?username=harshdwivediiiii&theme=github-compact" /></a>
+  <a href="https://github.com/harshdwivediiiii/github-readme-activity-graph">
+    <img alt="harshdwivediiiii's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=github-compact" />
+  </a>
 </div>
 <br/>
 <br/>
