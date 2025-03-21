@@ -106,7 +106,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ![](https://komarev.com/ghpvc/?username=harshdwivediiiii&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <a href="https://github.com/harshdwivediiiii?tab=followers"><img src="https://img.shields.io/github/followers/carrycooldude?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/harshdwivediiiii/main/dist/snake.svg)
+[![GitHub Skyline](https://skyline.github.com/harshdwivediiiii/2024)](https://skyline.github.com/harshdwivediiiii)
 
 
 
