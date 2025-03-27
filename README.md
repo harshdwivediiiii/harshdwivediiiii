@@ -36,6 +36,8 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </p>
 
 
+[![Harshvardhan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiii&layout=compact&theme=blue-green)](https://wakatime.com/@harshdwivediiii)
+
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
