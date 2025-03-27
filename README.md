@@ -36,11 +36,11 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </p>
 
 <## 📊 Wakatime Stats:
-[![Harshvardhan's Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@harshdwivediiii)
+[![Harshvardhan's Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@harshdwivediiii)/>
 
 ```md
 [![Harshvardhan's Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@harshdwivediiii)
->
+
 
 
 
