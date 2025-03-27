@@ -35,14 +35,6 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </a>
 </p>
 
-<## 📊 Wakatime Stats:
-[![Harshvardhan's Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@harshdwivediiii)/>
-
-```md
-[![Harshvardhan's Wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@harshdwivediiii)
-
-
-
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
