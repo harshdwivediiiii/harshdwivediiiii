@@ -36,7 +36,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </p>
 
 
-[![Harshvardhan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiii&layout=compact&theme=blue-green)](https://wakatime.com/harshdwivediiii)
+## 📊 Harshvardhan's WakaTime Stats
+
+[![Harshvardhan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Wakatime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiii&theme=radical)](https://wakatime.com/harshdwivediiii)
 
