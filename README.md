@@ -84,6 +84,9 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br/>
 <br/>
