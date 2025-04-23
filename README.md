@@ -74,8 +74,11 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </div>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com?user=harshdwivediiiii&theme=blue-green&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
