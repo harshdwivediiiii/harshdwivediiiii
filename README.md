@@ -97,38 +97,62 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 ## 🏅 Achievements
 - **[Postman API Fundamentals Student Expert](https://badgr.com/backpack/badges/6753dd9c5e7b5e6be80635be)**: Achieved expertise in using Postman for API development and testing. [View Certificate](https://api.badgr.io/public/assertions/OYaIxmndTmWUBaCr-RHKGg?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=harshvardhandwivedi18%40gmail.com)
-- 
+
 ## 🚀 Featured Projects
 
 Here are some of the projects I've worked on — combining AI, full-stack development, and real-world impact.
 
-### 🔹 [CraftMyCV](https://github.com/harshdwivediiiii/CraftMy-Cv)  
+---
+
+### 🔹 CraftMyCV  
+[🔗 GitHub](https://github.com/harshdwivediiiii/CraftMy-Cv) — 🚧 *In Progress*  
 An AI-powered resume builder that generates tailored CVs based on user input.  
-**Tech Stack**: Next.js, ShadCN UI, Gemini API
+**Tech Stack**:  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)  
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23d4a373?logo=vercel)  
+![Gemini API](https://img.shields.io/badge/Gemini_API-blueviolet)
 
 ---
 
-### 🔹 [HarshFolio](https://github.com/harshdwivediiiii/HarshFolio)  
+### 🔹 HarshFolio  
+[🔗 GitHub](https://github.com/harshdwivediiiii/HarshFolio) • [🌐 Live Demo](https://harsh-folio-gamma.vercel.app/)  
 My personal developer portfolio built with modern web technologies.  
-**Tech Stack**: Next.js, Tailwind CSS, Vercel
+**Tech Stack**:  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)
 
 ---
 
-### 🔹 [Foodfly](https://github.com/harshdwivediiiii/Foodfly)  
+### 🔹 Foodfly  
+[🔗 GitHub](https://github.com/harshdwivediiiii/Foodfly) • [🌐 Live Demo](https://foodfly-uchx.vercel.app/)  
 A full-stack food delivery app designed for seamless ordering and delivery experiences.  
-**Tech Stack**: React, Node.js, MongoDB, Express
+**Tech Stack**:  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)  
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
 
 ---
 
-### 🔹 [FormFlow AI](https://github.com/harshdwivediiiii/FormFlow-AI)  
+### 🔹 FormFlow AI  
+[🔗 GitHub](https://github.com/harshdwivediiiii/FormFlow-AI) • [🌐 Live Demo](https://form-flow-ai-ahqb.vercel.app/)  
 AI-enhanced form generator that helps users build forms with natural language prompts.  
-**Tech Stack**: Next.js, ShadCN UI, Gemini API
+**Tech Stack**:  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)  
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23d4a373?logo=vercel)  
+![Gemini API](https://img.shields.io/badge/Gemini_API-blueviolet)
 
 ---
 
-### 🔹 [Crackit AI](https://github.com/harshdwivediiiii/Crackit-AI)  
+### 🔹 Crackit AI  
+[🔗 GitHub](https://github.com/harshdwivediiiii/Crackit-AI) • [🌐 Live Demo](https://crackit-ai-k2x5.vercel.app/)  
 An AI-based interview preparation tool that generates tailored questions and tips for coding interviews.  
-**Tech Stack**: Next.js, Gemini API, Tailwind CSS
+**Tech Stack**:  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)  
+![Gemini API](https://img.shields.io/badge/Gemini_API-blueviolet)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 
 
 
