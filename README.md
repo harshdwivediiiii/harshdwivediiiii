@@ -97,6 +97,41 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 ## 🏅 Achievements
 - **[Postman API Fundamentals Student Expert](https://badgr.com/backpack/badges/6753dd9c5e7b5e6be80635be)**: Achieved expertise in using Postman for API development and testing. [View Certificate](https://api.badgr.io/public/assertions/OYaIxmndTmWUBaCr-RHKGg?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=harshvardhandwivedi18%40gmail.com)
+- 
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on — combining AI, full-stack development, and real-world impact.
+
+### 🔹 [CraftMyCV](https://github.com/harshdwivediiiii/CraftMy-Cv)  
+An AI-powered resume builder that generates tailored CVs based on user input.  
+**Tech Stack**: Next.js, ShadCN UI, Gemini API
+
+---
+
+### 🔹 [HarshFolio](https://github.com/harshdwivediiiii/HarshFolio)  
+My personal developer portfolio built with modern web technologies.  
+**Tech Stack**: Next.js, Tailwind CSS, Vercel
+
+---
+
+### 🔹 [Foodfly](https://github.com/harshdwivediiiii/Foodfly)  
+A full-stack food delivery app designed for seamless ordering and delivery experiences.  
+**Tech Stack**: React, Node.js, MongoDB, Express
+
+---
+
+### 🔹 [FormFlow AI](https://github.com/harshdwivediiiii/FormFlow-AI)  
+AI-enhanced form generator that helps users build forms with natural language prompts.  
+**Tech Stack**: Next.js, ShadCN UI, Gemini API
+
+---
+
+### 🔹 [Crackit AI](https://github.com/harshdwivediiiii/Crackit-AI)  
+An AI-based interview preparation tool that generates tailored questions and tips for coding interviews.  
+**Tech Stack**: Next.js, Gemini API, Tailwind CSS
+
+
+
 
 
 ### ✍️ Random Dev Quote
