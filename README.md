@@ -21,6 +21,8 @@
 Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy whipping up some delicious dishes in the kitchen too? Let's connect and share some stories, whether it's about data, coding, documentaries, or the latest recipe I've tried! 😊
 <img align="right" alt="GIF" src="https://github.com/harshdwivediiiii/harshdwivediiiii/blob/main/coding.gif" width="408" height="318" />
 
+<br/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-dwivedi-86b375290)  
