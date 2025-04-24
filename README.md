@@ -76,13 +76,12 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 </div>
 
-# 📊 GitHub Stats:
+| GitHub Stats | Streak Stats |
+| ------------ | ------------ |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) | ![Streak Stats](https://streak-stats.demolab.com?user=harshdwivediiiii&theme=blue-green&hide_border=false) |
 
-![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=pie&theme=radical)
 
-![](https://streak-stats.demolab.com?user=harshdwivediiiii&theme=blue-green&hide_border=false)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
