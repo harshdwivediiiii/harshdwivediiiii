@@ -91,6 +91,14 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🌱 **Contribution Graph**  
+<p align="center">
+  <a href="https://github.com/harshdwivediiiii/github-readme-activity-graph">
+    <img alt="Carrycooldude's Contribution Graph" src="https://githubreadmeactivitygraph.vercel.app/graphusername=harshdwivediiiii&theme=github-compact" />
+  </a>
+</p>
+
+
 ## 🏅 Achievements
 - **[Postman API Fundamentals Student Expert](https://badgr.com/backpack/badges/6753dd9c5e7b5e6be80635be)**: Achieved expertise in using Postman for API development and testing. [View Certificate](https://api.badgr.io/public/assertions/OYaIxmndTmWUBaCr-RHKGg?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=harshvardhandwivedi18%40gmail.com)
 
