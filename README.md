@@ -36,12 +36,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 </p>
 
 
-## 📊 Harshvardhan's WakaTime Stats
+<!-- WakaTime stats -->
+<!-- Make sure your GitHub is linked to WakaTime -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=shadow_blue)](https://wakatime.com/@harshdwivediiiii)
 
-[![Harshvardhan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Wakatime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiii&theme=radical)](https://wakatime.com/harshdwivediiii)
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -85,6 +83,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[![harshdwivediiiii's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
