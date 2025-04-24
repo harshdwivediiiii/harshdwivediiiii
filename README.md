@@ -76,24 +76,17 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 </div>
 
-| GitHub Stats | Streak Stats |
-| ------------ | ------------ |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) | ![Streak Stats](https://streak-stats.demolab.com?user=harshdwivediiiii&theme=blue-green&hide_border=false) |
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=pie&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshdwivediiiii&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<br/>
-<br/>
-<div align="center">
-  <a href="https://github.com/harshdwivediiiii/github-readme-activity-graph">
-    <img alt="harshdwivediiiii's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=github-compact" />
-  </a>
-</div>
-<br/>
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
