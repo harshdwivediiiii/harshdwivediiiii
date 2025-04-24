@@ -94,7 +94,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ### 🌱 **Contribution Graph**  
 <p align="center">
   <a href="https://github.com/harshdwivediiiii/github-readme-activity-graph">
-    <img alt="Carrycooldude's Contribution Graph" src="https://githubreadmeactivitygraph.vercel.app/graphusername=harshdwivediiiii&theme=github-compact" />
+    <img alt="harshdwivediiiii's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=github-compact" />
   </a>
 </p>
 
