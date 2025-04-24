@@ -85,9 +85,6 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 [![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![harshdwivediiiii's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
