@@ -78,13 +78,9 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshdwivediiiii&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdwivediiiii&show_icons=true&locale=en&layout=compact" alt="harshdwivediiiii" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en" alt="harshdwivediiiii" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
