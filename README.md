@@ -78,9 +78,12 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdwivediiiii&show_icons=true&locale=en&layout=compact" alt="harshdwivediiiii" /></p>
+![](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshdwivediiiii&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en" alt="harshdwivediiiii" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -176,5 +179,7 @@ An AI-based interview preparation tool that generates tailored questions and tip
 
 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 📊 GitHub Stats:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
