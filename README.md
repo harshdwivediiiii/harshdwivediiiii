@@ -44,6 +44,8 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 
 # 💻 Tech Stack:
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <img class="tech-badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
