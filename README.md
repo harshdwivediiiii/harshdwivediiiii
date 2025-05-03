@@ -181,5 +181,5 @@ An AI-based interview preparation tool that generates tailored questions and tip
 
 <div>
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/harshdwivediiii/harshdwivediiii/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
+  <img src="https://github.com/harshdwivediiiii/harshdwivediiiii/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
 </div>
