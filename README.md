@@ -177,3 +177,9 @@ An AI-based interview preparation tool that generates tailored questions and tip
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 📊 GitHub Stats:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div>
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://github.com/harshdwivediiii/harshdwivediiii/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
+</div>
