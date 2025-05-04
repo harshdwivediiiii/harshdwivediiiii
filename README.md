@@ -35,7 +35,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 
 <!-- WakaTime stats -->
 <!-- Make sure your GitHub is linked to WakaTime -->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=shadow_blue)](https://wakatime.com/harshdwivediiiii)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=shadow_blue)]([https://wakatime.com/harshdwivediiiii](https://wakatime.com/@harshdwivediiiii))
 
 
 # 💻 Tech Stack:
