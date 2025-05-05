@@ -168,6 +168,10 @@ An AI-based interview preparation tool that generates tailored questions and tip
 ---
 [![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ssoqd75wuh7zwwnwdmjejrdeci)
+
+
 ## ❤ Views and Followers
 
 ![](https://komarev.com/ghpvc/?username=harshdwivediiiii&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
