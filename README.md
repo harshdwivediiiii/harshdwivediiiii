@@ -104,10 +104,10 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 Here are some of the projects I've worked on — combining AI, full-stack development, and real-world impact.
 
 ---
-
-### 🔹 CraftMyCV  
-[🔗 GitHub](https://github.com/harshdwivediiiii/CraftMy-Cv) — 🚧 *In Progress*  
-An AI-powered resume builder that generates tailored CVs based on user input.  
+### Pathfinder-AI 
+[🔗 GitHub](https://github.com/harshdwivediiiii/pathfinder-ai) • [🌐 Live Demo](https://pathfinder-ai-auta.vercel.app/)  
+An AI caeer Guidance agent
+ 
 **Tech Stack**:  
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)  
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23d4a373?logo=vercel)  
