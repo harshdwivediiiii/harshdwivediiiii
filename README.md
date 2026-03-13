@@ -82,11 +82,6 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 ---
 [![](https://visitcount.itsvg.in/api?id=harshdwivediiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Badges
-<a href="https://github.com/harshdwivediiiii" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
-</a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
