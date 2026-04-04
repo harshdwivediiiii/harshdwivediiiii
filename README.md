@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+&+Enthusiast;Open+Source+Contributor+%7C+Hackathon+Addict)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+&+ML Enthusiast+%7V;Open+Source+Contributor+%7C+Hackathon+Addict)
 
 
 Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy whipping up some delicious dishes in the kitchen too? Let's connect and share some stories, whether it's about data, coding, documentaries, or the latest recipe I've tried! 😊
