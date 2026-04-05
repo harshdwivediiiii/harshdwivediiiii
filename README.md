@@ -90,21 +90,28 @@ Here are some of the cutting-edge AI integrations and projects I've built, trans
 Watch my contributions train and optimize over time!
 
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/harshdwivediiiii)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/harshdwivediiiii)
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  [![harshdwivediiiii's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&hide_border=true)](https://github.com/harshdwivediiiii)
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://wakatime.com/@harshdwivediiiii)
+  <a href="https://wakatime.com/@harshdwivediiiii">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime" />
+  </a>
 </div>
 
 ## 🐍 Model Training Iterations (Contribution Graph)
