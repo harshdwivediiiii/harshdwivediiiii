@@ -90,9 +90,11 @@ Here are some of the cutting-edge AI integrations and projects I've built, trans
 Watch my contributions train and optimize over time!
 
 <div align="center">
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
+  <br/> 
+
+<!-- <a href="https://github.com/drkostas">
+    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a> -->
   <a href="https://github.com/harshdwivediiiii">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   </a>
