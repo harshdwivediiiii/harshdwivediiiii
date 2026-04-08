@@ -129,14 +129,14 @@ Watch my contributions train and optimize over time!
 
 <div align="center">
 
-  <!-- Top Languages - Compact layout -->
+  <!-- Top Languages - Compact layout (most reliable) -->
   <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&hide=html,css" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&hide=html,css" alt="Top Languages Compact" width="48%" />
   </a>
   &nbsp;
-  <!-- Top Languages - Donut chart layout -->
+  <!-- Top Languages - Donut Vertical layout -->
   <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Languages Donut" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Languages Donut Vertical" width="36%" />
   </a>
 
 </div>
@@ -145,10 +145,12 @@ Watch my contributions train and optimize over time!
 
 <div align="center">
 
-  <!-- Top Languages - Full pie/waffle layout  -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Languages Pie" width="40%" />
-  </a>
+  <!-- Language breakdown from GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%" />
 
 </div>
 
