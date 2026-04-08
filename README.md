@@ -28,10 +28,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
 
 ---
@@ -125,32 +121,47 @@ Watch my contributions train and optimize over time!
 
 <br/>
 
-## 🗣️ Language Arsenal (Most Used Languages)
+## 📊 My Github Stats
 
 <div align="center">
 
-  <!-- Top Languages - Compact layout (most reliable) -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&hide=html,css" alt="Top Languages Compact" width="48%" />
-  </a>
-  &nbsp;
-  <!-- Top Languages - Donut Vertical layout -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Languages Donut Vertical" width="36%" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=dracula&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/harshdwivediiiii">
+    <img title="Harsh's total contribution and streaks" alt="Harshvardhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=dracula&hide_border=true&stroke=0000&background=0D1117" />
+  </a>
+</p>
 
-  <!-- Language breakdown from GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=tokyonight" alt="Repos Per Language" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=tokyonight" alt="Most Commit Language" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
+
+<br/>
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </div>
 
@@ -166,7 +177,7 @@ Watch my contributions train and optimize over time!
 
 <div align="center">
   <a href="https://wakatime.com/@harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=dracula&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
   </a>
 </div>
 
