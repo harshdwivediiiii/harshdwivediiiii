@@ -189,10 +189,10 @@ Watch my contributions train and optimize over time!
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg" width="100%" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
+</picture>
 </div>
 
 <br/>
