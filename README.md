@@ -98,13 +98,9 @@ Watch my contributions train and optimize over time!
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
   </a>
   &nbsp;
-  <!-- GitHub General Stats -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  </a>
 
   <br/><br/>
 
@@ -124,10 +120,6 @@ Watch my contributions train and optimize over time!
 ## 📊 My Github Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
     </td>
     <td>
@@ -148,15 +140,6 @@ Watch my contributions train and optimize over time!
 </table>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/harshdwivediiiii">
-    <img title="Harsh's total contribution and streaks" alt="Harshvardhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=dracula&hide_border=true&stroke=0000&background=0D1117" />
-  </a>
-</p>
-
-<br/>
-
 ## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy" />
