@@ -1,11 +1,12 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Harshvardhan Dwivedi
 ### AI SaaS Developer & Machine Learning Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+SaaS+Solutions;Training+LLMs+%26+Neural+Networks;Deploying+Autonomous+AI+Agents;Generative+AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/coding.gif" width="300" />
+
 </div>
 
 <br/>
@@ -17,20 +18,19 @@
 <br/>
 
 <div align="center">
-  
-  [![Resume](https://img.shields.io/badge/My%20Resume-Click%20Here-00599C?style=for-the-badge&logo=reverbnation&logoColor=white)](https://github.com/harshdwivediiiii/harshdwivediiiii/blob/main/resume.pdf)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-dwivedi-86b375290)
-  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Harshvdwivediii)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhandwivedi18@gmail.com) 
+
+[![Resume](https://img.shields.io/badge/My%20Resume-Click%20Here-00599C?style=for-the-badge&logo=reverbnation&logoColor=white)](https://github.com/harshdwivediiiii/harshdwivediiiii/blob/main/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-dwivedi-86b375290)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Harshvdwivediii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhandwivedi18@gmail.com)
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
+
+---
 
 ## 🧠 Brainware & Technology Stack
 I leverage a powerful combination of **Artificial Intelligence**, **Data Science**, and **Full-stack Web Technologies** to build scalable AI/ML solutions.
@@ -73,6 +73,8 @@ I leverage a powerful combination of **Artificial Intelligence**, **Data Science
 
 <br/>
 
+---
+
 ## 🚀 AI-Powered Projects
 Here are some of the cutting-edge AI integrations and projects I've built, transforming conceptual models into engaging web applications.
 
@@ -86,16 +88,83 @@ Here are some of the cutting-edge AI integrations and projects I've built, trans
 
 <br/>
 
+---
+
 ## 📈 Neural Network Logs (GitHub Stats)
 Watch my contributions train and optimize over time!
 
 <div align="center">
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
+  <br/>
+
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/harshdwivediiiii">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   </a>
+  &nbsp;
+  <!-- GitHub General Stats -->
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Stats Alpha Card (detailed overview) -->
+  <!-- <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&count_private=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+  </a> -->
+
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-stats-alpha.vercel.app/api?username=harshdwivediiiii&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats Alpha" />
+  </a>
+
+</div>
+
+<br/>
+
+## 📊 My Github Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=dracula&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/harshdwivediiiii">
+    <img title="Harsh's total contribution and streaks" alt="Harshvardhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=dracula&hide_border=true&stroke=0000&background=0D1117" />
+  </a>
+</p>
+
+<br/>
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy" />
+
+<br/>
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 </div>
 
 <br/>
@@ -110,27 +179,34 @@ Watch my contributions train and optimize over time!
 
 <div align="center">
   <a href="https://wakatime.com/@harshdwivediiiii">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshdwivediiiii&theme=dracula&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
   </a>
 </div>
 
-## 🐍 Model Training Iterations (Contribution Graph)
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-  </picture>
-</div>
+## 🐍 Watch My Contribution Graph Get Generates a snake game from a github user contributions graph
 
-<br/>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+---
 
 ## 🚀 Extras and System Metrics
 
 <div align="center">
-  
+
 | 🎧 Tuning In: Compiling to the rhythm of... | 🏅 Badges |
 | :---: | :---: |
 | <br/> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ssoqd75wuh7zwwnwdmjejrdeci) <br/> | <br/> [![Postman API Fundamentals Student Expert](https://img.shields.io/badge/Postman-API_Expert_Badge-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://badgr.com/backpack/badges/6753dd9c5e7b5e6be80635be) <br/> |
@@ -140,12 +216,18 @@ Watch my contributions train and optimize over time!
 ### 🤖 Syntax Quote Generator
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Development Quotes" />
 
-<br/><br/>
-
-<i>"Any sufficiently advanced AI is indistinguishable from magic."</i><br/>
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harshdwivediiiii&color=00FFFF&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Profile Views" />
+### 📊 Visitor Counter
+<img src="https://komarev.com/ghpvc/?username=harshdwivediiiii&color=00FFFF&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<i>"Any sufficiently advanced AI is indistinguishable from magic."</i>
+
+<br/><br/>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&fontColor=ffffff" width="100%" />
 
 </div>
