@@ -184,6 +184,7 @@ Watch my contributions train and optimize over time!
 </div>
 
 ---
+<<<<<<< HEAD
 
 ## 🐍 GitHub Contribution Graph Snake Animation
 
@@ -204,6 +205,25 @@ Watch my contributions train and optimize over time!
   </picture>
 </div>
 
+=======
+
+## 🐍 Watch My Contribution Graph Get Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+>>>>>>> 878f8d1060379473325a7bdb83375f88b7c5aa0c
 ---
 
 ## 🚀 Extras and System Metrics
