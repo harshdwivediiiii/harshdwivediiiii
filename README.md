@@ -157,7 +157,9 @@ Watch my contributions train and optimize over time!
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Profile Trophy" />
 
 <br/>
 
@@ -183,13 +185,13 @@ Watch my contributions train and optimize over time!
 
 ---
 
-## 🐍 Model Training Iterations (Contribution Graph)
+## 🐍 Watch My Contribution Graph Get Eaten by a Snake!
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/snake.svg" width="100%" />
   </picture>
 </div>
 
