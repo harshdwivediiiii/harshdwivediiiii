@@ -187,7 +187,7 @@ print(me.current_focus())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Profile Trophy" />
+  <img src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/assets/trophy.svg" alt="GitHub Profile Trophy" />
 </div>
 
 <br/>
