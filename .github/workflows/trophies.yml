@@ -1,0 +1,19 @@
+name: Update Trophies
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ryo-ma/github-profile-trophy@v1
+        with:
+          github_user: harshdwivediiiii
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          margin-w: 6
+          column: 7
