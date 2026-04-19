@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-d-86b375290/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-d-86b375290/)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Harshvdwivediii)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsh-folio-gamma.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhandwivedi18@gmail.com)
@@ -135,16 +135,22 @@ print(me.current_focus())
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Neural Network Logs (GitHub Stats)
+> Watch my contributions train and optimize over time!
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%" />
+  <!-- Streak Stats -->
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdwivediiiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdwivediiiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top Languages" width="49%" />
+  <!-- GitHub Stats Alpha Card -->
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-stats-alpha.vercel.app/api?username=harshdwivediiiii&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats Alpha" />
+  </a>
 
 </div>
 
@@ -152,10 +158,26 @@ print(me.current_focus())
 
 ---
 
-## 📈 Contribution Activity
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Most Commit Language" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=dracula&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Profile Details" width="100%" />
+
+  <br/>
+
+  > **Note:** Top languages only reflect my public code and don't indicate experience or skill level.
+
 </div>
 
 <br/>
@@ -165,7 +187,19 @@ print(me.current_focus())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Profile Trophy" />
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/harshdwivediiiii">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
 </div>
 
 <br/>
@@ -176,9 +210,9 @@ print(me.current_focus())
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
