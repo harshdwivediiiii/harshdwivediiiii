@@ -71,7 +71,6 @@ print(me.current_focus())
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
 ### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
