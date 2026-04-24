@@ -35,7 +35,7 @@ class HarshvardhanDwivedi:
         self.role        = "AI/ML Engineer & SaaS Developer"
         self.education   = "B.Tech CSE (AI/ML) — Sophomore"
         self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "TypeScript", "C++", "Java", "JavaScript"]
+        self.languages   = ["Python", "TypeScript", "C++", "CSS", "JavaScript"]
         self.focus       = ["LLM Fine-Tuning", "Computer Vision", "AI Agents", "Full-Stack AI Apps"]
         self.open_source = ["GirlScript SoC", "Social Winter of Code", "OSC Global"]
         self.mentoring   = "Social Summer of Code — Mentor 🧑‍🏫"
