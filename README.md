@@ -105,6 +105,7 @@ print(me.current_focus())
 
 | 🔗 Project | 💡 Description | 🛠️ Stack |
 |:---|:---|:---|
+| 🏙️ **[DevCity AI](https://devcity-ai-1.onrender.com/)** | ML-powered 3D code visualization platform that turns GitHub repos into interactive cities with risk & anomaly insights | Flask · Three.js · SQLite · **ML Models** |
 | 🧑‍🏫 **[Pathfinder AI](https://pathfinder-ai-auta.vercel.app/)** | Intelligent career guidance agent that aligns users with tailored career paths using AI | Next.js · ShadCN · **Gemini API** |
 | 📝 **[FormFlow AI](https://form-flow-ai-ahqb.vercel.app/)** | Natural language form generator — describe it, AI builds it instantly | Next.js · ShadCN · **Gemini API** |
 | 💡 **[Crackit AI](https://crackit-ai-k2x5.vercel.app/)** | AI-driven interview prep: tailored questions, dynamic coding tips, mock sessions | Next.js · Tailwind · **Gemini API** |
