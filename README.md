@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:0D1117&height=200&section=header&text=Harshvardhan%20Dwivedi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&descColor=00FFFF" width="100%" />
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+SaaS+Solutions+%F0%9F%A7%A0;Training+LLMs+%26+Neural+Networks+%F0%9F%94%AC;Deploying+Autonomous+AI+Agents+%F0%9F%A4%96;Computer+Vision+%26+Generative+AI+%F0%9F%8E%A8;Open+Source+Contributor+%26+Mentor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+SaaS+Solutions+%F0%9F%A7%A0;Training+LLMs+%26+Neural+Networks+%F0%9F%94%AC;Deploying+Autonomous+AI+Agents+%F0%9F%A4%96;Computer+Vision+%26+GenerativeAI+%F0%9F%8E%A8;Open+Source+Contributor+%26+Mentor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
