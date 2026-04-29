@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:0D1117&height=200&section=header&text=Harshvardhan%20Dwivedi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&descColor=00FFFF" width="100%" />
@@ -21,8 +21,6 @@
 <img src="https://komarev.com/ghpvc/?username=harshdwivediiiii&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -51,57 +49,49 @@ me = HarshvardhanDwivedi()
 print(me.current_focus())
 ```
 
-<br/>
-
 ---
 
 ## 🧠 Tech Arsenal
 
 ### 🤖 AI / ML / Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
 ### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 ### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
-<br/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | 🔗 Project | 💡 Description | 🛠️ Stack |
 |:---|:---|:---|
@@ -112,15 +102,9 @@ print(me.current_focus())
 | 🍔 **[Foodfly](https://foodfly-uchx.vercel.app/)** | Full-stack food delivery platform with real-time order tracking | MongoDB · Express · React · Node |
 | 💼 **[HarshFolio](https://harsh-folio-gamma.vercel.app/)** | Interactive developer portfolio showcasing all projects & skills | Next.js · Tailwind CSS · Vercel |
 
-</div>
-
-<br/>
-
 ---
 
 ## 🌍 Open Source Contributions
-
-<div align="center">
 
 | Program | Role |
 |:---:|:---:|
@@ -129,94 +113,59 @@ print(me.current_focus())
 | 🌐 **Open Source Connect Global** | Contributor |
 | ☀️ **Social Summer of Code** | **Mentor 🧑‍🏫** |
 
-</div>
-
-<br/>
-
 ---
 
-## 📈 Neural Network Logs (GitHub Stats)
-> Watch my contributions train and optimize over time!
+## 📈 GitHub Stats & Achievements
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%" />
-  </a>
+<!-- Streak Stats - Fixed with maintained API -->
+<img src="https://streak-stats.demolab.com?user=harshdwivediiiii&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- GitHub Stats Alpha Card -->
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-stats-alpha.vercel.app/api?username=harshdwivediiiii&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats Alpha" />
-  </a>
+<!-- GitHub Stats Cards -->
+<img src="https://github-stats-alpha.vercel.app/api?username=harshdwivediiiii&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
 
 </div>
-
-<br/>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 Language & Activity Breakdown
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Most Commit Language" />
 
-  <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=dracula&hide_border=true&utcOffset=5.5" alt="Productive Time" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdwivediiiii&theme=dracula&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Profile Details" width="100%" />
 
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdwivediiiii&theme=dracula&hide_border=true" alt="Profile Details" width="100%" />
-
-  <br/>
-
-  > **Note:** Top languages only reflect my public code and don't indicate experience or skill level.
+> **Note:** Top languages reflect public code contributions only.
 
 </div>
-
-<br/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshdwivediiiii/harshdwivediiiii/main/assets/trophy.svg" alt="GitHub Profile Trophy" />
-</div>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshdwivediiiii&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/harshdwivediiiii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdwivediiiii&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+
 </div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
 
 ---
 
@@ -230,20 +179,6 @@ print(me.current_focus())
 [████████████████░░░░]  80% — Full-Stack AI App Development
 ```
 
-<br/>
-
----
-
-## 🎧 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ssoqd75wuh7zwwnwdmjejrdeci">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00FFFF" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<br/>
-
 ---
 
 ## 🏅 Certifications & Badges
@@ -255,8 +190,6 @@ print(me.current_focus())
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -265,7 +198,7 @@ print(me.current_focus())
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
-<br/><br/>
+<br/>
 
 *"Any sufficiently advanced AI is indistinguishable from magic."*
 
