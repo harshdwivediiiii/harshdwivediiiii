@@ -507,6 +507,30 @@ SYSTEM_STATUS:
 
 <div align="center">
 
+# 🎧 NEURAL AUDIO STREAM
+
+<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-6a83-4d65-9c3b-6a96f9e5f0e8.gif" width="100%" />
+
+### *Coding • Training Models • Building AI • Deep Work Frequencies*
+
+<br/>
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ssoqd75wuh7zwwnwdmjejrdeci&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00ffff&bar_color_cover=true" />
+
+<br/>
+
+<a href="https://open.spotify.com/user/31ssoqd75wuh7zwwnwdmjejrdeci?si=wiItNebnSt-aKXcMfnPNZA">
+<img src="https://img.shields.io/badge/Spotify-AI%20Engineer%20Soundtrack-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
 # 🤝 LET'S CONNECT & BUILD THE FUTURE
 
 <a href="https://www.linkedin.com/in/harshvardhan-d-86b375290">
