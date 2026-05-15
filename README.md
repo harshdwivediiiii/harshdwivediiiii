@@ -9,8 +9,7 @@
 <br/>
 
 <!-- ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=⚡+Building+Production-Grade+AI+Systems;🧠+Training+LLMs+%26+Neural+Networks;🤖+Deploying+Autonomous+AI+Agents;🎨+Computer+Vision+%26+Generative+AI;🚀+Full-Stack+AI+SaaS+Engineer" alt="Typing Animation"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Building+Production-Grade+AI+Systems;Training+LLMs+and+Neural+Networks;Deploying+Autonomous+AI+Agents;Computer+Vision+and+Generative+AI;Full-Stack+AI+SaaS+Engineer" alt="Typing Animation"/>
 <br/>
 
 <!-- DYNAMIC PROFILE STATS -->
